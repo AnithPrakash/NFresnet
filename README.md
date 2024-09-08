@@ -14,9 +14,10 @@ Abstract: This paper presents a method to train deep neural networks without bat
 
 ![Screenshot 2024-09-09 021053](https://github.com/user-attachments/assets/cbaab984-65b8-4159-9cf4-86c1c4100a44)
 
-![Screenshot 2024-09-09 021134](https://github.com/user-attachments/assets/a86303f5-8fa7-40ef-895b-a4a6e54af725)
+
 Summary of NFNet bottleneck block design and architectural differences. 
 
+![Screenshot 2024-09-09 021134](https://github.com/user-attachments/assets/a86303f5-8fa7-40ef-895b-a4a6e54af725)
 ## Model performance
 
 ![Screenshot 2024-09-09 021111](https://github.com/user-attachments/assets/c426f6d9-8976-44d9-aa72-6377ee3297df)
